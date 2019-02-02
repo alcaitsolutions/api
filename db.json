@@ -4,7 +4,7 @@
       "id": 1,
       "username": "jscheri",
       "email": "jscheri@mindmypc.com",
-      "password":"john123"
+      "password":"john123",
       "firstName":"John",
       "lastName":"Scheri"
     },
@@ -13,7 +13,7 @@
       "id": 2,
       "username": "mbrown",
       "email": "mbrown@mindmypc.com",
-      "password":"mike123"
+      "password":"mike123",
       "firstName":"Mike",
       "lastName":"Brown"
     }    
