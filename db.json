@@ -1,45 +1,31 @@
 {
-  "users": [
+  "posts": [
     {
       "id": 1,
-      "username": "jscheri",
-      "email": "jscheri@mindmypc.com",
-      "password":"john123",
-      "firstName":"John",
-      "lastName":"Scheri"
+      "title": "Post 1"
     },
-    
-     {
-      "id": 2,
-      "username": "mbrown",
-      "email": "mbrown@mindmypc.com",
-      "password":"mike123",
-      "firstName":"Mike",
-      "lastName":"Brown"
-    }    
-  ],
-  "programs": [
-    {
-      "id": 1,
-      "title": "Hypertention"
-    },
-    
     {
       "id": 2,
-      "title": "Stress"
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
   ],
-  "subscriptions": [
+  "comments": [
     {
       "id": 1,
-      "name": "Monthly",
-      "price": "21.99"
+      "body": "some comment",
+      "postId": 1
     },
-    
     {
-       "id": 2,
-      "name": "Annual",
-      "price": "321.99"     
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
