@@ -8,16 +8,6 @@
       "lastName":"Scheri",
       "planId": "2",
       "email":"jscheri@mindmypc.com"
-    },
-    
-    {
-      "id": 2,
-      "username": "mbrown",
-      "password": "mike123",
-      "firstName":"Mike",
-      "lastName":"Brown",
-      "planId": "2",
-      "email":"mbrown@mindmypc.com"
     }
     
     
