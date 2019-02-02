@@ -2,13 +2,25 @@
   "users": [
     {
       "id": 1,
-      "username": "hello",
-      "password": "",
-      "firstName":"",
-      "lastName":"",
-      "planId": "",
-      "email",""
-    }
+      "username": "jscheri",
+      "password": "john123",
+      "firstName":"John",
+      "lastName":"Scheri",
+      "planId": "2",
+      "email":"jscheri@mindmypc.com"
+    },
+    
+    {
+      "id": 2,
+      "username": "mbrown",
+      "password": "mike123",
+      "firstName":"Mike",
+      "lastName":"Brown",
+      "planId": "2",
+      "email":"mbrown@mindmypc.com"
+    },
+    
+    
   ],
   "profile": {
     "name": "typicode"
