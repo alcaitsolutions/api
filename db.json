@@ -1,16 +1,9 @@
 {
-  "users": [
+  "posts": [
     {
       "id": 1,
-      "username": "jscheri",
-      "password": "john123",
-      "firstName":"John",
-      "lastName":"Scheri",
-      "planId": "2",
-      "email":"jscheri@mindmypc.com"
+      "title": "hello"
     }
-    
-    
   ],
   "profile": {
     "name": "typicode"
